@@ -1,0 +1,25 @@
+{
+  "name": "blogs-medium-examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "trooba-hystrix-handler-example.js",
+  "dependencies": {
+    "trooba": "^2.0.2",
+    "trooba-http-transport": "^2.0.0",
+    "trooba-hystrix-handler": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimichgh/blogs-medium-examples.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dimichgh/blogs-medium-examples/issues"
+  },
+  "homepage": "https://github.com/dimichgh/blogs-medium-examples#readme"
+}
