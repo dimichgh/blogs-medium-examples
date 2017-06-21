@@ -4,6 +4,8 @@
   "description": "",
   "main": "trooba-hystrix-handler-example.js",
   "dependencies": {
+    "express": "^4.15.3",
+    "hystrix-dashboard": "^1.0.2",
     "trooba": "^2.0.2",
     "trooba-http-transport": "^2.0.0",
     "trooba-hystrix-handler": "^1.0.4"
